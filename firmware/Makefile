@@ -74,7 +74,7 @@ endif
 
 
 
-STDDEP	 = *.h ../libs/API/*.h ../libs/USBaspLoader/firmware/*.h ../libs/v-usb/usbdrv/*.h 
+STDDEP	 = *.h ../libs/API/*.h ../libs/v-usb/usbdrv/*.h 
 EXTRADEP = Makefile
 
 
